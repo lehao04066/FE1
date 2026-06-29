@@ -18,4 +18,7 @@ export class App {
   handleClick() {
     alert('Bạn đã click button');
   }
+  delete() {
+    alert('ban da xoa');
+  }
 }
